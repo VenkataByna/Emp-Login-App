@@ -1,0 +1,11 @@
+c:\users\ieuser\source\repos\Login App\Login App\bin\Debug\Login App.exe.config
+c:\users\ieuser\source\repos\Login App\Login App\bin\Debug\Login App.exe
+c:\users\ieuser\source\repos\Login App\Login App\bin\Debug\Login App.pdb
+c:\users\ieuser\source\repos\Login App\Login App\obj\Debug\Login App.csprojAssemblyReference.cache
+c:\users\ieuser\source\repos\Login App\Login App\obj\Debug\Login_App.LogIn.resources
+c:\users\ieuser\source\repos\Login App\Login App\obj\Debug\Login_App.Properties.Resources.resources
+c:\users\ieuser\source\repos\Login App\Login App\obj\Debug\Login App.csproj.GenerateResource.cache
+c:\users\ieuser\source\repos\Login App\Login App\obj\Debug\Login App.csproj.CoreCompileInputs.cache
+c:\users\ieuser\source\repos\Login App\Login App\obj\Debug\Login App.exe
+c:\users\ieuser\source\repos\Login App\Login App\obj\Debug\Login App.pdb
+c:\users\ieuser\source\repos\Login App\Login App\obj\Debug\Login_App.WelcomeForm.resources
