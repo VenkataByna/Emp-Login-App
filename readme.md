@@ -1,1 +1,1 @@
-this is a Simple app to validate login creditials 
+this is a Simple app to validate Employee login credentials 
